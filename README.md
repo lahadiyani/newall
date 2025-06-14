@@ -1,0 +1,2 @@
+# newall
+blueprint kita semua
